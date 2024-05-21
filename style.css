@@ -1,0 +1,165 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: 'poppins';
+}
+.ota-one{
+    background-color: #EDE6DD;
+    width:100vw;
+    height:1000px;
+    position: relative;
+    z-index: 1;
+
+}
+.ota-two{
+ background-image: url('./image\ 1\ \(3\).png');
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ 
+ height: 400px;
+ width: 1220px;
+ display: column;
+ justify-content: center;
+ align-items: center;
+ border-radius: 5px;
+ text-align: center;
+ margin:0 auto;
+ position: absolute;
+ z-index: 3;
+ right: 150px;
+ top: 700px;
+ margin-top: 80px;
+}
+.ota-three{
+    background-color: #FFD394;
+    width:100vw;
+    height:1000px;
+    z-index: 1;
+}
+.h1-ota-two{
+    color: white;
+}
+.p-ota-two{
+    color: white;
+    text-align: center;
+    width: 653px;
+    margin:0 auto;
+    padding-top: 30px;
+}
+.p-ota-three{
+    border: 2px white solid;
+    color: white;
+    width: 90px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    margin:0 auto;
+    margin-top: 30px;
+}
+.div-ona{
+   margin-top: 110px;
+}
+.p{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.p-header{
+    margin-right: 90px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.in-text-h1{
+    width: 512px;
+    height: 116px;
+    margin-top: 100px;
+    font-size:49px ;
+}
+.p-ota-two{
+    width: ;
+}
+.h1-one{
+    font-family:'Poetsen One';
+    margin-top: 20px;
+}
+.header-p{
+    font-size: 16px;
+    margin-bottom: 10px;
+    width: 494px;
+    margin-top: 60px;
+}
+.header-p-two{
+    width: 549px;
+    font-size: 18px;
+}
+.input-one{
+    border: none;
+    padding-left: 25px;
+    padding-right: 10px;
+    border-radius: 30px;
+    font-size: 18px;
+    color: #1E1928 ;
+    margin-top: 80px;
+    width:448px;
+    height: 56px;
+    
+}
+.p-p{
+    width: 179px;
+    height: 25px;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    position: absolute;
+    top:531px;
+    left: 290px;
+}
+.big-img{
+    width: 404px;
+    height: 389px;
+    position: absolute;
+    top: 200px;
+    z-index: 5;
+    left:880px;
+}
+.container{
+     max-width: 1220px;
+     margin:0  auto;
+}
+.ota-three-h1{
+    font-size: 40px;
+    padding-top: 380px;
+}
+.ota-three-two{
+    width: 50px;
+    height: 49px;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    margin-right: 30px;
+}
+.ota-three-h1-two{
+   margin:0 auto;
+   text-align: center;
+}
+.ota-three-three{
+    display: flex;
+    margin-left: 900px;
+    font-size: 18px;
+}
+.download{
+    width: 536px;
+    margin-bottom: 70px;
+}
+.ota-three-in-ota{
+    
+}
